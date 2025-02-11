@@ -19,7 +19,11 @@
 	会社について
 </s:if>
 
-<s:if test='"qtype=="support"'>
+<s:if test='qtype=="product"'>
+製品について
+</s:if>
+
+<s:if test='qtype=="support"'>
 	アフターサポートについて
 </s:if>
 <br>
