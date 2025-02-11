@@ -24,7 +24,7 @@
 </s:if>
 <br>
 <br>お問い合わせ内容:<br>
-<s:property value="bosy"/>
+<s:property value="body"/>
 
 </body>
 </html>
