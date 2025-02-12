@@ -7,3 +7,4 @@ public class InquiryAction extends ActionSupport{
 		}
 
 }
+
